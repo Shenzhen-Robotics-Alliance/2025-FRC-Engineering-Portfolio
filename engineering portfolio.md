@@ -3,14 +3,22 @@
 ## Hardware
 
 + ### Intake & Shooter
+    <br>At the beginning of the design process, we explored various schemes to optimize the intake system. Initially, we used a rubber wheel to intake the Coral, which proved highly effective. Building on this, we designed a curved structure to intake both Coral and Algae.
+    <br>![coral](coral.jpg)
 
-    In the beginning, we tested many schemes to test the intake part, and we tried many schemes. <br> At first, we used a rubber wheel to intake the Coral. The effect is excellent, on this basis we designed a curved structure which is able to intake the Algae. In the top of the robot, we install a trapdoor with a funnel that take the Coral from the station. ![coral](coral.jpg)When the funnel intakes the Coral, it will send it to shooter. The scoring part will be given to shooter. <br> In addition, the back of the shooter is curved which will take the Algae off the reef. ![coral](algae.jpg)This special structure ensures we can intake both game elements. At the same time, it could reverse rotating and become shooter to hang the Coral on the reef. To enhance our efficiency and accuracy of getting scores, we installed 4 cameras cooperating 4 orange pi to recognize the Code to locate the accurate position in the field.![coral](orange.jpg) <br> Also, we installed an "Elevator" to raise the shooter to reach Level 4, which offers the highest point in the competition. Additionally, the shooter is able to put the Algae into the net. 
-    
+    <br>At the top of the robot, we installed a trapdoor with a funnel that captures the Coral from the station.Once the funnel intakes the Coral, it is sent directly to the shooter, which handles the scoring action. Additionally, the back of the shooter is curved to grab the Algae from the reef.This innovative design ensures we can intake both types of game elements. The shooter can also reverse its rotation to hang the Coral on the reef.
+    <br>![coral](algae.jpg)
 
+    <br>To further enhance efficiency and accuracy, we integrated four cameras working with four Orange Pi devices to recognize the field's QR Codes, allowing for precise location tracking.
+    <br>![coral](orange.jpg)
 
+    <br>Furthermore, we included an "Elevator" mechanism that raises the shooter to Level 4, giving us access to the highest point in the competition. Additionally, the shooter is equipped to drop the Algae into the net.
 
 + ### Climb
-    Catching the cage is also a giant challenge, we designed two hooks to catch the cage. ![coral](hook.jpg)Before catching the cage, the trapdoor will open so that the catch will rise to help our robot leave the ground and get the Climbing score. To make sure we can catch the cage, we use a number of components which is made of carbon fiber material to reduce the weight of our robot. 
+    <br>Catching the cage presented a significant challenge, so we designed two hooks to securely latch onto the cage.Before catching the cage, the trapdoor opens, raising the hooks to help lift our robot off the ground and achieve the Climbing score.
+    <br>![coral](hook.jpg)
+
+    <br>To ensure we could effectively catch the cage, we used a number of carbon fiber components to reduce the weight of the robot, making it both lightweight and strong for the task.
 
 
 
