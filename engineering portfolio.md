@@ -1,6 +1,8 @@
 # Engineering Portfolio
 ---
 ## Hardware
+This year, we designed a test robot, similar to the one used in the competition. The purpose of this robot is to help drivers gain experience before the competition, preventing them from starting to operate the robot just before the event. Additionally, the programmer can gather valuable data regarding the robot’s performance. Our efficiency has never been higher.
+
 
 + ### Intake & Shooter
     <br>At the beginning of the design process, we explored various schemes to optimize the intake system. Initially, we used a rubber wheel to intake the Coral, which proved highly effective. Building on this, we designed a curved structure to intake both Coral and Algae. 
