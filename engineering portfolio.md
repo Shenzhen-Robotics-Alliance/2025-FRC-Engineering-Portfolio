@@ -1,7 +1,7 @@
 # Engineering Portfolio
 ---
 ## Hardware
-This year, we designed a test robot, similar to the one used in the competition. The purpose of this robot is to help drivers gain experience before the competition, preventing them from starting to operate the robot just before the event. Additionally, the programmer can gather valuable data regarding the robot’s performance. Our efficiency has never been higher.
+This year, we designed a test robot, similar to the one used in the competition. The purpose of this robot is to help drivers gain experience before the competition, preventing them from starting to operate the robot just before the event. Additionally, the programmer can gather valuable data regarding the robot’s performance. Compared with last year, we have finished 2 robots and also help other teams which are near our school. Our efficiency is significantly enhanced faster than ever before. 
 
 
 + ### Intake & Shooter
