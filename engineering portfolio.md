@@ -1,28 +1,33 @@
 # Engineering Portfolio
 ---
 ## Hardware
-This year, we designed a test robot, similar to the one used in the competition. The purpose of this robot is to help drivers gain experience before the competition, preventing them from starting to operate the robot just before the event. Additionally, the programmer can gather valuable data regarding the robot’s performance. Compared with last year, we have finished 2 robots and also help other teams which are near our school. Our efficiency is significantly enhanced faster than ever before. 
+<br> 
+This year, we designed a test robot similar to the one used in competition. The purpose of this robot is to help drivers gain experience before the competition, preventing them from starting to operate the robot at the last minute. Additionally, the programming team can gather valuable data regarding the robot’s performance. Compared to last year, we have successfully built two robots and assisted other teams near our school. Our efficiency has significantly improved, making us faster than ever before.
+
 ---
 
 
 + ### Intake & Shooter
-    <br>At the beginning of the new season publicize, we explored various schemes to optimize the intake system. Initially, we used a rubber wheel to intake the Coral, which proved highly effective. Fortunately, the test part meets our expectations, and we decided to use this design for the intake part. Building on this, we designed a curved structure to intake so that this component is able to catch both Coral and Algae. 
-    <br>![coral](coral.jpg)
-
-<br>To increase the probability of intaking coral from the station, we installed a trapdoor with a funnel that captures the Coral at the top of the robot. Once the funnel intakes the Coral, it is sent directly to the shooter, which handles the scoring action. Considered there are another game elements –Algae which is put on the reef and should our robot remove it from the reef. We have found an innovative way to solve this problem. The back of the shooter is curved to grab the Algae from the reef. The rubber wheel in the shooter will reverse its rotation to get this game element. With the help of “elevator”, the help can put the Algae to the net. 
+<br>At the beginning of the new season, we explored various designs to optimize the intake system. Initially, we used a rubber wheel mechanism to intake Coral, which proved highly effective. Fortunately, the test results met our expectations, leading us to adopt this design for the intake system. To further enhance efficiency, we designed a curved structure that allows the system to intake both Coral and Algae.
+<br>![coral](coral.jpg)
+<br>
+To increase the likelihood of successfully intaking Coral from the station, we installed a trapdoor with a funnel at the top of the robot to guide the Coral into the shooter. Once inside, the shooter takes over to complete the scoring process.
+Considering that Algae is another game element placed on the reef, our robot needed a mechanism to remove it efficiently. We developed an innovative solution: the back of the shooter features a curved structure designed to grab the Algae from the reef. The rubber wheel in the shooter reverses its rotation to collect the Algae, which is then transferred using an "Elevator" mechanism that lifts it into the scoring net.
 <br>![coral](algae.jpg)
-
-<br>To further enhance efficiency and accuracy, we integrated four cameras working with four Orange Pi devices to recognize the field's QR Codes, allowing for precise location tracking. When our robots close to the reef, the robot will locate the correct location which is suitable to hang the coral with the help of coding. It greatly reduces the pressure on drivers. 
+<br>
+To further enhance efficiency and accuracy, we integrated four cameras working in tandem with four Orange Pi devices to recognize QR codes on the field, enabling precise location tracking. When our robot approaches the reef, it identifies the optimal position for hanging the Coral, reducing the burden on the drivers. 
 <br>![coral](orange.jpg)
-
-<br>Furthermore, we included an "Elevator" mechanism that raises the shooter to Level 4, giving us access to the highest point in the competition. Additionally, the shooter is equipped to drop the Algae into the net. In addition, we included an "Elevator" mechanism that raises the shooter to Level 4 and up to the net, giving us access to the high points in the competition. 
+<br>
+Additionally, our shooter is designed to elevate to Level 4, allowing us to reach the highest scoring zones. The "Elevator" mechanism not only raises the shooter but also helps position the Algae for scoring in the net.
 
 ---
 + ### Climb
-    <br>Catching the cage presented a tough challenge. Therefore, we designed two hooks to securely latch onto the cage. This is a special structure which does not need electricity to work. The shape of two hooks is like a triangle, thus making the cage will not escape from the hooks. During this process, two hooks will come together until the hook locks the cage. It will only take less than 5 seconds. Before catching the cage, the trapdoor opens, raising the hooks to help lift our robot off the ground and achieve the Climbing score. 
-    <br>![coral](hook.jpg)
+<br>Catching the cage in the competition is a crucial challenge. To address this, we designed two specialized mechanical hooks that securely lock onto the cage without requiring electricity.
+The hooks are powered by rubber bands, utilizing a triangular structure that causes them to retract inward. When the robot approaches the cage and triggers the hooks, they will quickly snap into place, tightly locking onto the bottom beam of the cage. This process takes less than five seconds, significantly improving climbing efficiency and reliability.
+<br>![coral](hook.jpg)
+<br>
+Additionally, we incorporated carbon fiber components to reduce the weight of the robot, ensuring it remains both strong and lightweight, providing better support for climbing.
 
-    <br>At the same time, we used a number of carbon fiber components to reduce the weight of the robot, making it both lightweight and strong for the task. 
 
 ---
 ## Software
