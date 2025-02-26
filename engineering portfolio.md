@@ -9,7 +9,7 @@ This year, we designed a test robot similar to the one used in competition. The 
 
 + ### Intake & Shooter
 <br>At the beginning of the new season, we explored various designs to optimize the intake system. Initially, we used a rubber wheel mechanism to intake Coral, which proved highly effective. Fortunately, the test results met our expectations, leading us to adopt this design for the intake system. To further enhance efficiency, we designed a curved structure that allows the system to intake both Coral and Algae.
-<br>![coral](coral.jpg)
+<br>![coral](simulate.jpg)
 <br>
 To increase the likelihood of successfully intaking Coral from the station, we installed a trapdoor with a funnel at the top of the robot to guide the Coral into the shooter. Once inside, the shooter takes over to complete the scoring process.
 Considering that Algae is another game element placed on the reef, our robot needed a mechanism to remove it efficiently. We developed an innovative solution: the back of the shooter features a curved structure designed to grab the Algae from the reef. The rubber wheel in the shooter reverses its rotation to collect the Algae, which is then transferred using an "Elevator" mechanism that lifts it into the scoring net.
